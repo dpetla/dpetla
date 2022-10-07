@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚛️ I'm currently working on frontend projects focus using React
+
+<p>
+
+## GitHub Stats
+
+<a href="https://github.com/dpetla/dpetla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpetla&layout=compact" />
+</a>
+<a href="https://github.com/dpetla/dpetla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpetla&show_icons=true&line_height=27&count_private=true" alt="dpetla's GitHub Stats" />
+</a>
