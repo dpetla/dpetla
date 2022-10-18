@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚛️ I'm currently working on frontend projects focus using React
+⚛️ I'm currently working on frontend projects using React
 
 <p>
 
