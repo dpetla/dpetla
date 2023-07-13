@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/dpetla/dpetla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpetla&layout=compact" />
 </a>
+
+<!-- TODO: need to deploy own version to display private data 
 <a href="https://github.com/dpetla/dpetla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpetla&show_icons=true&line_height=27&count_private=true" alt="dpetla's GitHub Stats" />
-</a>
+</a> -->
